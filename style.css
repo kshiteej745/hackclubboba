@@ -67,3 +67,15 @@ button {
   border: none;
   border-radius: 10px;
 }
+
+.button {
+  margin: 50px auto 50px auto;
+  display: block;          
+  padding: 40px 60px;
+  font-size: 25px;
+  cursor: pointer;
+  background-color: rgb(205, 202, 202);
+  box-shadow: 8px 8px 10px rgb(132, 131, 131);
+  border: none;
+  border-radius: 10px;
+}
